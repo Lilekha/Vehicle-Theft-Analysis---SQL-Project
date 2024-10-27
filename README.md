@@ -241,3 +241,5 @@ SELECT * FROM stolen_vehicles sv
 ```
 
 ![vehicle theft analysis 1](https://github.com/user-attachments/assets/796aaa99-acf9-411e-a217-a92e46501eb7)
+
+![vehicle theft analysis 3](https://github.com/user-attachments/assets/d0b73a45-d870-47d8-ad60-978326786c35)
