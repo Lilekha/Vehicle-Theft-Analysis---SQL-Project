@@ -188,7 +188,6 @@ SELECT * FROM make_details;
 4. **Population vs. Density Scatter Plot:** Create a scatter plot of population versus density, with point size representing the number of stolen vehicles.
 5. **Regional Theft Map:** Create a map of the regions, coloring them based on the number of stolen vehicles.
 
-5. **Regional Theft Map:** Create a map of the regions, coloring them based on the number of stolen vehicles.
 
 ```sql
 -- OBJECTIVE 3: Identify where vehicles are likely to be stolen
